@@ -103,10 +103,11 @@ __Flow diagram & Test approach__
 
 ### Scripts for automation using python
 
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
+* Sample Login Automation Test script [Link](https://drive.google.com/file/d/14S6UThwu7exRNeiLrAng3lEE2AGFVy0h/view?usp=sharing) 
+* Sample Form based website Automation Test script [Link](https://drive.google.com/file/d/1U4JTreoeV2leivC-BvJa2Il7e2LApTMJ/view?usp=sharing) 
+* Sample Login Responsive Automation Test script [Link](https://drive.google.com/file/d/1_OVh20iKVbF_pJkcISNQJi65CXR3kq--/view?usp=sharing)
 
 ## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
+__"Managing the Testing Process"__ Rex Black - an excellent book for a very beginners. It explains the tips and tools to plan, build, and execute a structured test operation In this update of his bestselling book, 
 
-__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+__"How to Break Software"__  James A. Whittaker - comprehensive explanation of the fundamental techniques and approaches used in software testing.
