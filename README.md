@@ -21,11 +21,11 @@ Now, as a Tester i have to coordinate with the team leads, manager and developer
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1LuKjJqOXWOHh1COvGSpuL5dksUav75v9/view?usp=sharing).
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Examples of my work](https://drive.google.com/drive/folders/1Y3VxRKGaBNM8R0dP-GjJR5PJLtRvY7xF?usp=sharing) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of more than 10 web applications and mobile applications
