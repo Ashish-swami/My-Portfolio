@@ -2,6 +2,7 @@
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
+- [Learning](#Learning)
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in Katalon Studio](#test-cases-and-work-in-Katalon-studio)
@@ -53,6 +54,14 @@ __Python fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
 
+
+## Learning 
+
+ * QA Manual testing (Edureka-yt)
+ * Automation Testing (SDET -yt)
+ * Google data Analytics (Coursera)
+ * Data science and Data Anlytics founcation (Coursera)
+
 ## Tools
 
 __Katalon Studio__
@@ -68,26 +77,32 @@ __Browser developer tools__
   * using inspect element to find out the payload, responses and data fetch and know where data is not passed
   * have used different browser extensions to test UI of web applications
 
-__VirtualBox__
-  * able to set up and operate virtual machines
-
+__HeidiSQL__
+  * Can run queries to fetch the data
+  * Can understand the Database creation flow and analyise test results
+ 
+__Mongodb compass__
+  * Can run queries to fetch the data
+  * Can understand the Database creation flow and analyise test results
+  
 __Flow diagram & Test approach__
   * know how to design beautifully simple flow of testing in miro
   * Have experience in using miro to check flow and design test scenerios according to it
 
+__Zoho Apps__
+ * Zoho sheets for writing test cases 
+ * Zoho docs for test report documentation
+ * Zoho Assist for remote testing 
+ * Zoho Docs for Test Data management
+
+__Excel__
+ * For writing and management of the comprehensive test cases
+ * Sorting of data 
+ * Analytics of test cases reports
+
 ## Examples of my work
 
 ### Test cases and work in Katalon studio
-
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
 
 ### Bug reports and work in Jira
 
