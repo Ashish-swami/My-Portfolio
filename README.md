@@ -6,8 +6,8 @@
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in Katalon Studio](#test-cases-and-work-in-Katalon-studio)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Test designs diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+  * [Test designs diagrams](#Flow-diagram-&-Test-approach-in-miro)
+  * [Scripts for automation using python](#Scripts-for-automation-using-python)
 - [Books I have read](#books-i-have-read)
 
 ## About me
